@@ -1,0 +1,1 @@
+SELECT * FROM hostel.new_student;
